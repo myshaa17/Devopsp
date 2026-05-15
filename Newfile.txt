@@ -1,0 +1,2 @@
+adding samoke test for testing 
+this file has been created for devops training 
